@@ -1,0 +1,48 @@
+---
+title: "SAS_Library"
+output:
+  html_document: 
+    theme: darkly
+    toc: yes
+    toc_float: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{css, echo=FALSE}
+.watch-out {
+  background-color: black;
+  border: 2px solid grey;
+  font-size: 10px;
+  font-weight: bold;
+  text-align: left;
+  }
+```
+
+* [Library Github]()
+
+***
+
+## **Use word search shortcuts like CTRL+G to find specific functions faster**
+
+***
+
+# [**:**]{style="color:#FFCC00;"}
+
+```{r class.source="watch-out"}
+
+```
+
+***
+
+# [**:**]{style="color:#FF9900;"}
+
+## 
+
+```{r class.source="watch-out"}
+
+```
+
+***
